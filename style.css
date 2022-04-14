@@ -1,3 +1,14 @@
 body{
     background-color: #005555;
 }
+.navbar{
+    background-color: aliceblue;
+}
+
+#quem_somos{
+    background-color: gray;
+}
+
+.margin{
+    padding-top:2%;
+}
