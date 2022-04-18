@@ -1,5 +1,6 @@
 body{
     background-color: #005555;
+    font: 20px arial;
 }
 .navbar{
     background-color: aliceblue;
@@ -7,8 +8,14 @@ body{
 
 #quem_somos{
     background-color: gray;
+    color: aliceblue;
 }
 
 .margin{
     padding-top:2%;
+    padding-bottom: 1%;
+}
+
+.parceiros{
+    background-color: rgba(37, 154, 158, 0.425);
 }
